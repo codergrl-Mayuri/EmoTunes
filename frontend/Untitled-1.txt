@@ -1,0 +1,7 @@
+'angry': 'Energetic',
+    'disgust': 'Calm',
+    'fear': 'Calm',
+    'happy': 'Happy',
+    'neutral': 'Calm',
+    'sad': 'Sad',
+    'surprise': 'Energetic'

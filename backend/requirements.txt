@@ -1,0 +1,8 @@
+numpy
+pandas
+cv2
+tensorflow
+matplotlib
+logging
+base64
+fastapi
